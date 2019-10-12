@@ -1,3 +1,2 @@
 # Tarea1_MachineLearning
-Francisco Farias
-Francisco Solar
+Francisco Farias - Francisco Solar
